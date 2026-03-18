@@ -24,9 +24,11 @@ This project was developed as part of my Web Development Internship at ApexcifyT
 3. Run **index.html** in any web browser
 
 Project Picture:
-<img width="947" height="415" alt="Screenshot 2026-03-17 062406" src="https://github.com/user-attachments/assets/5fd8729d-64fc-416c-9af8-af8168cb0ad1" />
-<img width="947" height="412" alt="image" src="https://github.com/user-attachments/assets/89bcf805-7902-49c8-99c3-763f1d5ac818" />
-<img width="948" height="412" alt="image" src="https://github.com/user-attachments/assets/eb7b9b2b-d24c-4b7a-9360-e1b0485356dd" />
-<img width="948" height="411" alt="image" src="https://github.com/user-attachments/assets/1cb0a13e-bd6d-4e0c-be00-016094a29ade" />
+<img width="944" height="413" alt="image" src="https://github.com/user-attachments/assets/689046ee-4559-4c5a-9080-127ba66b55ab" />
+<img width="946" height="408" alt="image" src="https://github.com/user-attachments/assets/3aa8756c-5c31-4c70-a1e4-d911cc7d4e3b" />
+<img width="938" height="361" alt="image" src="https://github.com/user-attachments/assets/9c161c3f-bbc1-4b64-b900-71988e569930" />
+<img width="948" height="406" alt="image" src="https://github.com/user-attachments/assets/5806e2f5-c2b6-4310-9f90-fe1f4fef1145" />
+
+
 
 
